@@ -4,7 +4,7 @@
  */
 
 /* Morse code thingy
- * Created by Jakub Dolezal and Vojtech Hejsek
+ * Created by Jakub Dolezal, Vojtech Hejsek, Jan Schejbal
  */
 
 #include "mbed.h"
